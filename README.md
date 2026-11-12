@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nati
 
-<!--
-**nati-Workneh/nati-Workneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Industrial Engineering & Information Systems student interested in data analytics, AI and automation.
 
-Here are some ideas to get you started:
+I build and learn through hands-on projects, using AI-assisted coding tools alongside Python, SQL and web technologies. My goal is to grow into AI engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [AutoGuard AI](https://github.com/nati-Workneh/autoguard-ai-v2): An insurance-claim prediction model built with Python and AI agents in Claude Code.
+- [BikeNova BI](https://github.com/nati-Workneh/BI-Sales-Project-BikeNova): A course project exploring sales data with SQL Server, Power BI and Excel.
+- [RECYCLE](https://github.com/nati-Workneh/WebProject): A Hebrew right-to-left website built with HTML, CSS, JavaScript and SCSS.
+
+## What I'm working toward
+
+Building a stronger foundation in software development, machine learning and practical automation, with an emphasis on understanding, testing and improving the projects I build.
